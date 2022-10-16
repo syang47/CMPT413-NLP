@@ -1,0 +1,1 @@
+Implemented linear interpolation and backoff smoothing for unigram and bigrams attempting to increase F-score.

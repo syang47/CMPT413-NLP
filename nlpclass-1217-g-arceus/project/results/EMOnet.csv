@@ -1,0 +1,2 @@
+,emotions_val_acc,emotions_val_auc,emotions_test_acc,emotions_test_auc,vocab_limit,stem,lower,max_seq_len
+0,0.44850000739097595,0.7735714912414551,0.4375,0.7721322178840637,80000,True,True,30

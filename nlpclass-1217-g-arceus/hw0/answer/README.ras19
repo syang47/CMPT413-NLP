@@ -1,0 +1,3 @@
+Looked at how to penalize the probability of a longer word being selected.
+This causes it to be segmented into shorter, simpler words.
+Set-up the LaTeX report on Overleaf.

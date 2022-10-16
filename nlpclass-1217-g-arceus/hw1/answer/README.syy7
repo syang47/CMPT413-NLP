@@ -1,0 +1,2 @@
+- Implemented iterative segmenter for unigram and bigram model.
+- Tested additive smoothing for unigram and bigram to enhance F-Score. 

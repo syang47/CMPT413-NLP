@@ -1,0 +1,2 @@
+Contributions
+Implemented the semi-character improvement of the baseline model (option 1) and the model which uses the hidden state output of the semi-character representation as input (option 2). Also made the LSTM -> GRU switch.
